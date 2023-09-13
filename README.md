@@ -73,7 +73,7 @@ Set dataset path in [configs\s3dis\\_\_init\_\_.py](configs/s3dis/__init__.py)
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 |VTPNet|66.3|94.2|97.4|81.8|58.3|43.0|63.7|67.8|70.5|72.9|43.3|58.9|51.2|59.4|
 
-## 3. VTPNet for Classification and Segmentation
+## 4. VTPNet for Classification and Segmentation
 
 ### 3D object classification
 
